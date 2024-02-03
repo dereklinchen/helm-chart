@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  fastapi-demo:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-02-03T14:32:16.2438009+11:00"
+    dependencies:
+    - name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 14.0.0
+    description: A Helm chart for deploying a FastAPI Demo
+    digest: ab0dc9f6bd46fc67ab12da4f250c38c7c3404149b95755c9e1b42824eb084bad
+    name: fastapi-demo
+    type: application
+    urls:
+    - https://github.com/dereklinchen/fastapi-demo-helm-chart/fastapi-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-03T14:32:16.2253259+11:00"
